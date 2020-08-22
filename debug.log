@@ -1,0 +1,4 @@
+[0607/192527:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: An attempt was made to access an exiting process.  (0xc000010a)
+[0608/091944:ERROR:process_reader_win.cc(83)] NtQuerySystemInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation.  (0xc0000017)
+[0608/091944:ERROR:exception_snapshot_win.cc(87)] thread ID 5056 not found in process
+[0608/091944:WARNING:crash_report_exception_handler.cc(315)] ProcessSnapshotWin::Initialize failed
